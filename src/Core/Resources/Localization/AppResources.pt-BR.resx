@@ -2975,18 +2975,6 @@ Você deseja mudar para esta conta?</value>
   <data name="YourPasskeyWillBeSavedToYourBitwardenVaultForX" xml:space="preserve">
     <value>Sua chave de acesso será salva no seu cofre do Bitwarden para {0}</value>
   </data>
-  <data name="OrganizationUnassignedItemsMessageUSEUDescriptionLong" xml:space="preserve">
-    <value>Itens da organização não atribuídos não são mais visíveis na visualização Todos os Cofres e acessíveis apenas através da console. Atribuir estes itens a uma coleção do Console de Administração para torná-los visíveis.</value>
-  </data>
-  <data name="OrganizationUnassignedItemsMessageSelfHost041624DescriptionLong" xml:space="preserve">
-    <value>Em 16 de maio, 2024, itens de organização não atribuídos não estarão mais visíveis na visualização Todos os Cofres e acessíveis apenas através do Console de Administração. Atribuir estes itens a uma coleção do Console de Administração para torná-los visíveis.</value>
-  </data>
-  <data name="RemindMeLater" xml:space="preserve">
-    <value>Lembrar-me depois</value>
-  </data>
-  <data name="Notice" xml:space="preserve">
-    <value>Nota</value>
-  </data>
   <data name="PasskeysNotSupportedForThisApp" xml:space="preserve">
     <value>Chaves de acesso não são suportadas por este app</value>
   </data>
